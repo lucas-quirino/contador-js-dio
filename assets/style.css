@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Roboto&family=Source+Serif+Pro:wght@200;300;400;600;700;900&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    background: rgb(105, 191, 197);
+    margin-top: 100px;
+}
+
+p {
+    display: flex;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+}
+
+button {
+    height: 25px;
+    width: 30px;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(255, 123, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+}
+
+footer {
+    margin-top: 100px;
+    display: flex;
+    align-content: flex-end;
+    font-size: small;
+
+#counter {
+    display: flex;
+}
+
+#currentNumber {
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+    font-size: 18px;
+}
+
+span {
+    font-size: 30px;
+}
