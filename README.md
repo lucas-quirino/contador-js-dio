@@ -1,9 +1,23 @@
-<h1 align="center">Primeira prática com JavaScript. <h2>
+# A counter using JS
+## Hello guys!
 
-<h4 align="left">- Projeto prático para os Bootcamps da Digital Innovation One - DIO para o curso  "Introdução ao Java Script".</h3>
+For this activity, a counter was made using JS.
+
+</br>
+
+The technologies worked were:
+
+</br>
+
+* JS
+* HTML5
+* CSS3
+* CSS Transitions
+* Git/GitHub
+
+</br>
 
 <p align="center">
-  <a href="https://github.com/lucas-quirino/flex-projeto-dio">
     <img src="assets/readme-img.png" alt="Contador"/>
   </a>
 </p>
