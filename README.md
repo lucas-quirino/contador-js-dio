@@ -1,23 +1,15 @@
-# A counter using JS
-## Hello guys!
+# A counter using JS ⌛⏳⌛⏳
 
-For this activity, a counter was made using JS.
+## For this activity, a counter was made using JS.
 
-</br>
+<br>
 
-The technologies worked were:
-
-</br>
+### In this work I was able to practice:
 
 * JS
 * HTML5
 * CSS3
-* CSS Transitions
-* Git/GitHub
 
-</br>
+<br>
 
-<p align="center">
-    <img src="assets/readme-img.png" alt="Contador"/>
-  </a>
-</p>
+![cunter image exemple](assets/readme-img.png)
